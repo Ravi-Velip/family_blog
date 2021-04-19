@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">306656576456-65p1c99lffgq67oeb9c4ot9min6b0rhv.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://familyblog-5de3e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">306656576456</string>
+    <string name="google_api_key" translatable="false">AIzaSyDD6-9GPgbkgUX8BpK5eEIt6eD0X8qI8p8</string>
+    <string name="google_app_id" translatable="false">1:306656576456:android:8b405d51b8e0f477</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDD6-9GPgbkgUX8BpK5eEIt6eD0X8qI8p8</string>
+    <string name="google_storage_bucket" translatable="false">familyblog-5de3e.appspot.com</string>
+    <string name="project_id" translatable="false">familyblog-5de3e</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "306656576456",
+    "firebase_url": "https://familyblog-5de3e.firebaseio.com",
+    "project_id": "familyblog-5de3e",
+    "storage_bucket": "familyblog-5de3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306656576456:android:8b405d51b8e0f477",
+        "android_client_info": {
+          "package_name": "com.seawoodsventures.family_blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306656576456-2e9mkorqooq6n45nrldrql06cebu0hsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seawoodsventures.family_blog",
+            "certificate_hash": "604845bd51f5a773474b8a77efb4332df33f1499"
+          }
+        },
+        {
+          "client_id": "306656576456-65p1c99lffgq67oeb9c4ot9min6b0rhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6-9GPgbkgUX8BpK5eEIt6eD0X8qI8p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306656576456-65p1c99lffgq67oeb9c4ot9min6b0rhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
